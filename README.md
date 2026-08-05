@@ -2,7 +2,7 @@
 
 Java developer (+-) working on improving...
 
-I enjoy building projects, learning how things work, and getting better at programming over time. At the same time, I try to balance coding with real life instead of sitting at a chair 24/7.
+I enjoy building projects, learning how things work, and getting better at programming over time. At the same time, I try to balance coding with real life
 
 I'm also the **owner of Silver Client**. "silverclient.store"
 
@@ -11,7 +11,6 @@ I'm also the **owner of Silver Client**. "silverclient.store"
 * 💻 Programming / Java
 * ⚽ Play soccer :)
 * 🧠 Learning new things
-* 🌱 Living life outside the screen too
 
 ## Currently
 

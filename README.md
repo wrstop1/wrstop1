@@ -8,7 +8,7 @@ I'm also the **owner of Silver Client**. "silverclient.store"
 
 ## Interests
 
-* 💻 Programming / Java
+* 💻 Programming / Java / Python
 * ⚽ Play soccer :)
 * 🧠 Learning new things
 
